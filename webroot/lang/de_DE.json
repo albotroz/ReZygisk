@@ -9,7 +9,7 @@
       "status": {
         "notWorking": "Funktioniert nicht",
         "ok": "Funktioniert",
-        "partially": "Funktioniert zum Teil"
+        "partially": "Funktioniert teilweise"
       },
       "info": {
         "version": "Version",
@@ -29,7 +29,7 @@
           "tracing": "Nachverfolgung",
           "stopping": "Beenden",
           "stopped": "Beendet",
-          "exiting": "Wird Beendet",
+          "exiting": "Wird beendet",
           "unknown": "Unbekannt"
         },
         "button": {
@@ -48,36 +48,36 @@
       "title": "Einstellungen",
       "language": {
         "title": "Sprache auswählen",
-        "description": "Change the language of the WebUI to the selected one."
+        "description": "Ändert die WebUI-Sprache auf die ausgewählte Sprache."
       },
       "fullscreen": {
-        "title": "Disable fullscreen mode in WebUI",
-        "description": "This option will make the WebUI not fill the whole screen."
+        "title": "Deaktiviert Vollbild-Modus im WebUI",
+        "description": "Mit dieser Einstellung wird die WebUI nicht den gesamten Bildschirm ausfüllen."
       },
       "theme": {
-        "title": "Change WebUI theme",
-        "description": "Choose your system theme for current WebUI"
+        "title": "Ändere WebUI Theme",
+        "description": "Mit dieser Einstellung wird dein Betriebssystem-Theme für aktuelle WebUI benutzt."
       },
       "font": {
         "title": "Systemschriftart aktivieren",
-        "description": "Diese Option aktiviert die Systemschriftart in der aktuellen WebUI. HINWEIS: Möglicherweise nicht kompatibel mit FlipFont"
+        "description": "Diese Option aktiviert die Systemschriftart in der aktuellen WebUI. HINWEIS: Möglicherweise nicht kompatibel mit FlipFont."
       },
-      "moduleDevelopers": "Module Developer(s)",
-      "WebUIDevelopers": "WebUI Developer(s)",
-      "orginalDevelopers": "Original Module Developer(s)",
-      "moduleLicense": "Module License",
-      "WebUILicense": "WebUI License"
+      "moduleDevelopers": "Modul Entwickler",
+      "WebUIDevelopers": "WebUI Entwickler",
+      "orginalDevelopers": "Ursprüngliche Modul Entwickler",
+      "moduleLicense": "Modul Lizenz",
+      "WebUILicense": "WebUI Lizenz"
     },
     "mini_settings_language": {
       "title": "Sprache auswählen"
     },
     "mini_settings_theme": {
-      "title": "Change WebUI theme",
+      "title": "Ändere WebUI Theme",
       "theme": {
-        "dark": "Dark Theme",
-        "light": "Light Theme",
+        "dark": "Dunkles Theme",
+        "light": "Helles Theme",
         "amoled": "Amoled Theme",
-        "system_based": "System Based Theme"
+        "system_based": "Betriebssystem Theme"
       }
     }
   },
